@@ -216,7 +216,7 @@
 213	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#99.125#99.486
 214	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#99.486#99.847
 215	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ztr1976f#@ztr1976f#99.847#100.208
-216	вышек	вышек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#100.208#100.569
+216	вышек	вышка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#100.208#100.569
 217	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ztr1976f#@ztr1976f#100.569#100.93
 218	насмотрелась	насмотреться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ztr1976f#@ztr1976f#100.93#101.291
 219	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#101.291#101.652
