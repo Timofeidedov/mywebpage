@@ -1109,7 +1109,7 @@
 1106	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#201.99#202.206
 1107	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#202.206#202.426
 1108	а	а	CCONJ	_	_	_	_	_	words@tz1974f#@tz1974f#203.453#203.747
- 	что	что	PRON	_	Case=Acc	_	_	_	words@tz1974f#@tz1974f#203.747#204.041
+1109 что	что	PRON	_	Case=Acc	_	_	_	words@tz1974f#@tz1974f#203.747#204.041
 1110	же	же	PART	_	_	_	_	_	words@tz1974f#@tz1974f#204.041#204.335
 1111	вот	вот	PART	_	_	_	_	_	words@tz1974f#@tz1974f#204.335#204.629
 1112	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@tz1974f#@tz1974f#204.629#204.923
