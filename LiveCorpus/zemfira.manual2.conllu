@@ -216,7 +216,7 @@
 213	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#99.125#99.486
 214	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#99.486#99.847
 215	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ztr1976f#@ztr1976f#99.847#100.208
-216	вышек	вышка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#100.208#100.569
+216	вышек	вышек	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#100.208#100.569
 217	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ztr1976f#@ztr1976f#100.569#100.93
 218	насмотрелась	насмотреться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ztr1976f#@ztr1976f#100.93#101.291
 219	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#101.291#101.652
@@ -355,7 +355,7 @@
 352	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#157.873#158.195
 353	священный	священный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#158.195#158.517
 354	праздник	праздник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#158.517#158.839
-355	татар	татар	NOUN	_	Animacy=Anim|Case=Gen|Number=Plur	_	_	_	words@ztr1976f#@ztr1976f#158.839#159.161
+355	татар	татар	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@ztr1976f#@ztr1976f#158.839#159.161
 356	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#159.161#159.483
 357	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#159.483#159.805
 358	мм	мм	X	_	_	_	_	_	words@ztr1976f#@ztr1976f#163.674#164.004
@@ -416,7 +416,7 @@
 413	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#181.705#181.986
 414	как-то	как-то	ADV	_	Degree=Pos	_	_	_	words@ztr1976f#@ztr1976f#181.986#182.267
 415	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#182.267#182.548
-416	пре...	пре	X	_	_	_	_	_	words@ztr1976f#@ztr1976f#182.548#182.829
+416	пре...	пре...	X	_	_	_	_	_	words@ztr1976f#@ztr1976f#182.548#182.829
 417	красоты	красота	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ztr1976f#@ztr1976f#182.829#183.11
 418	средней	средний	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#183.11#183.391
 419	полосы	полоса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#183.391#183.672
@@ -672,7 +672,7 @@
 669	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#309.627#309.906
 670	в	в	ADP	_	_	_	_	_	words@ztr1976f#@ztr1976f#309.906#310.185
 671	общем-то	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#310.185#310.464
-672	м...	м	X	_	_	_	_	_	words@ztr1976f#@ztr1976f#310.464#310.743
+672	м...	м...	X	_	_	_	_	_	words@ztr1976f#@ztr1976f#310.464#310.743
 673	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ztr1976f#@ztr1976f#310.743#311.022
 674	теперь	теперь	ADV	_	Degree=Pos	_	_	_	words@ztr1976f#@ztr1976f#311.022#311.301
 675	не	не	PART	_	_	_	_	_	words@ztr1976f#@ztr1976f#311.301#311.58
@@ -842,12 +842,12 @@
 839	а	а	CCONJ	_	_	_	_	_	words@tz1974f#@tz1974f#0.853#1.274
 840	что	что	PRON	_	Case=Nom	_	_	_	words@tz1974f#@tz1974f#1.274#1.695
 841	там	там	ADV	_	Degree=Pos	_	_	_	words@tz1974f#@tz1974f#1.695#2.116
-842	за...	за	X	_	_	_	_	_	words@tz1974f#@tz1974f#2.116#2.537
+842	за...	за...	X	_	_	_	_	_	words@tz1974f#@tz1974f#2.116#2.537
 843	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@tz1974f#@tz1974f#2.537#2.958
 844	?	?	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#2.958#3.379
 845	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#3.379#3.8
 846	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#3.8#4.229
-847	ааа	ааа	X	_	_	_	_	_	words@tz1974f#@tz1974f#7.38#7.656
+847	ааа	ааа	X	_	X	_	_	_	words@tz1974f#@tz1974f#7.38#7.656
 848	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#7.656#7.932
 849	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#7.932#8.21
 850	ну	ну	PART	_	_	_	_	_	words@tz1974f#@tz1974f#9.689#9.863
@@ -861,7 +861,7 @@
 858	ведь	ведь	PART	_	_	_	_	_	words@tz1974f#@tz1974f#11.081#11.255
 859	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#11.255#11.429
 860	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#11.429#11.613
-861	#нрзб#	#нрзб#	X	_	_	_	_	_	words@tz1974f#@tz1974f#19.465#19.827
+861	#нрзб#	#нрзб#	X	_	X	_	_	_	words@tz1974f#@tz1974f#19.465#19.827
 862	воздействует	воздействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@tz1974f#@tz1974f#19.827#20.189
 863	на	на	ADP	_	_	_	_	_	words@tz1974f#@tz1974f#20.189#20.551
 864	людей	человек	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@tz1974f#@tz1974f#20.551#20.913
@@ -1010,8 +1010,8 @@
 1007	у	у	ADP	_	_	_	_	_	words@tz1974f#@tz1974f#126.674#126.963
 1008	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	_	_	_	words@tz1974f#@tz1974f#126.963#127.252
 1009	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@tz1974f#@tz1974f#127.252#127.541
-1010	по...	по	X	_	_	_	_	_	words@tz1974f#@tz1974f#127.541#127.83
-1011	по...	по	X	_	_	_	_	_	words@tz1974f#@tz1974f#127.83#128.119
+1010	по...	по...	X	_	_	_	_	_	words@tz1974f#@tz1974f#127.541#127.83
+1011	по...	по...	X	_	_	_	_	_	words@tz1974f#@tz1974f#127.83#128.119
 1012	поверье	поверье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@tz1974f#@tz1974f#128.119#128.408
 1013	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@tz1974f#@tz1974f#128.408#128.697
 1014	народное	народный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@tz1974f#@tz1974f#128.697#128.986
@@ -1109,7 +1109,7 @@
 1106	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#201.99#202.206
 1107	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#202.206#202.426
 1108	а	а	CCONJ	_	_	_	_	_	words@tz1974f#@tz1974f#203.453#203.747
-1109  что что PRON  _ Case=Acc  _ _ _ words@tz1974f#tz1974f#203.744#204.041
+1109 	что	что	PRON	_	Case=Acc	_	_	_	words@tz1974f#@tz1974f#203.747#204.041
 1110	же	же	PART	_	_	_	_	_	words@tz1974f#@tz1974f#204.041#204.335
 1111	вот	вот	PART	_	_	_	_	_	words@tz1974f#@tz1974f#204.335#204.629
 1112	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@tz1974f#@tz1974f#204.629#204.923
@@ -1138,7 +1138,7 @@
 1135	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	words@tz1974f#@tz1974f#248.419#248.575
 1136	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#248.575#248.731
 1137	чувствуешь	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@tz1974f#@tz1974f#248.731#248.887
-1138	се...	се	X	_	_	_	_	_	words@tz1974f#@tz1974f#248.887#249.043
+1138	се...	се...	X	_	_	_	_	_	words@tz1974f#@tz1974f#248.887#249.043
 1139	как	как	ADV	_	Degree=Pos	_	_	_	words@tz1974f#@tz1974f#249.043#249.199
 1140	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@tz1974f#@tz1974f#249.199#249.355
 1141	воздействуешь	воздействовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@tz1974f#@tz1974f#249.355#249.511
@@ -1263,4 +1263,4 @@
 1260	видимо	видимо	ADV	_	Degree=Pos	_	_	_	words@tz1974f#@tz1974f#366.578#366.818
 1261	/	/	PUNCT	_	_	_	_	_	words@tz1974f#@tz1974f#366.818#367.058
 1262	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@tz1974f#@tz1974f#367.058#367.298
-1263	зна...	зна	X	_	_	_	_	_	words@tz1974f#@tz1974f#367.298#367.55
+1263	зна...	зна…	X	_	_	_	_	_	words@tz1974f#@tz1974f#367.298#367.55
