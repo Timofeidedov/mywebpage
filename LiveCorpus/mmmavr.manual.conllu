@@ -1143,7 +1143,7 @@
 1140	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	words@dig1967m#@dig1967m#138.083#138.336
 1141	/	/	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#138.336#138.589
 1142	какой-то	какой-то	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#138.589#138.842
-1143	отпечаток	отпечаток	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#138.842#139.095
+1143	отпечаток	отпечаток	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#138.842#139.095
 1144	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@dig1967m#@dig1967m#139.095#139.348
 1145	#смеется#	#смеется#	X	_	_	_	_	_	words@dig1967m#@dig1967m#139.348#139.601
 1146	?	?	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#139.601#139.854
