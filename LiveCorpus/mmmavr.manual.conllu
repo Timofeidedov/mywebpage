@@ -82,7 +82,7 @@
 79	/	/	PUNCT	_	_	_	_	_	words@spm1955m#@spm1955m#111.298#111.567
 80	чето	чего-то	PRON	_	Case=Nom	_	_	_	words@spm1955m#@spm1955m#111.567#111.836
 81	пройдет	пройти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@spm1955m#@spm1955m#111.836#112.105
-82	то	то	SCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#112.105#112.374
+82	то	то	CCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#112.105#112.374
 83	либо	либо	CCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#112.374#112.643
 84	вот	вот	PART	_	_	_	_	_	words@spm1955m#@spm1955m#112.643#112.912
 85	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@spm1955m#@spm1955m#112.912#113.181
@@ -130,12 +130,12 @@
 127	везло	везти	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@spm1955m#@spm1955m#127.795#128.017
 128	/	/	PUNCT	_	_	_	_	_	words@spm1955m#@spm1955m#128.017#128.239
 129	вот	вот	PART	_	_	_	_	_	words@spm1955m#@spm1955m#128.239#128.461
-130	то	то	SCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#128.461#128.683
+130	то	то	CCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#128.461#128.683
 131	упадешь	упасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@spm1955m#@spm1955m#128.683#128.905
 132	там	там	PART	_	_	_	_	_	words@spm1955m#@spm1955m#128.905#129.127
 133	головой	голова	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@spm1955m#@spm1955m#129.127#129.349
 134	/	/	PUNCT	_	_	_	_	_	words@spm1955m#@spm1955m#129.349#129.571
-135	то	то	SCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#129.571#129.793
+135	то	то	CCONJ	_	_	_	_	_	words@spm1955m#@spm1955m#129.571#129.793
 136	там	там	PART	_	_	_	_	_	words@spm1955m#@spm1955m#129.793#130.015
 137	вот	вот	PART	_	_	_	_	_	words@spm1955m#@spm1955m#130.015#130.237
 138	именно	именно	PART	_	_	_	_	_	words@spm1955m#@spm1955m#130.237#130.459
