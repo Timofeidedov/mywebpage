@@ -1028,7 +1028,7 @@
 1025	/	/	PUNCT	_	_	_	_	_	words@spm1955m#@spm1955m#428.128#428.394
 1026	/	/	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#55.562#55.778
 1027	Сергей	Сергей	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#55.778#55.994
-1028	Пантелеевич.	Пантелеевич.	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#55.994#56.21
+1028	Пантелеевич	Пантелеевич	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#55.994#56.21
 1029	добрый	добрый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#56.21#56.426
 1030	день	день	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dig1967m#@dig1967m#56.426#56.642
 1031	/	/	PUNCT	_	_	_	_	_	words@dig1967m#@dig1967m#56.642#56.858
