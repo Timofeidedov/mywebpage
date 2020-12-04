@@ -1092,7 +1092,7 @@
 1092	не	не	PART	_	_	_	_	_	words@dig1967m#@dig1967m#79.012#79.318
 1093	давали	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@dig1967m#@dig1967m#79.318#79.624
 1094	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	words@dig1967m#@dig1967m#79.624#79.93
-1095	больше	больше	ADV	_	Degree=Cmp	_	_	_	words@dig1967m#@dig1967m#79.93#80.236
+1095	больше	больше	ADV	_	Degree=Comp	_	_	_	words@dig1967m#@dig1967m#79.93#80.236
 1096	восемнадцати	восемнадцать	NUM	_	Case=Gen	_	_	_	words@dig1967m#@dig1967m#80.236#80.542
 1097	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@dig1967m#@dig1967m#80.542#80.848
 1098	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@dig1967m#@dig1967m#80.848#81.154
