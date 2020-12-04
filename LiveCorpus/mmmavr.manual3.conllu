@@ -85,7 +85,7 @@
 85	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@spm1955m#@spm1955m#112.912#113.181
 86	/	/	PUNCT	_	_	_	_	_	words@spm1955m#@spm1955m#113.181#113.45
 87	ну	ну	PART	_	_	_	_	_	words@spm1955m#@spm1955m#113.45#113.719
-88	скорее	скорее	ADV	_	Degree=Comp	_	_	_	words@spm1955m#@spm1955m#113.719#113.988
+88	скорее	скорее	ADV	_	Degree=Cmp	_	_	_	words@spm1955m#@spm1955m#113.719#113.988
 89	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@spm1955m#@spm1955m#113.988#114.257
 90	конечно	конечно	ADV	_	Degree=Pos	_	_	_	words@spm1955m#@spm1955m#114.257#114.526
 91	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@spm1955m#@spm1955m#114.526#114.795
